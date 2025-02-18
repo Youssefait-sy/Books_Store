@@ -1,0 +1,31 @@
+
+.header {
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.header button {
+    height: 40px;
+}
+
+.books-list-container {
+    width: 48%;
+}
+
+.div-book-info {
+    width: 48%;
+}
+
+.side-bar {
+    border: 1px solid rgb(168, 168, 168);
+}
+
+.books-list {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 4px;
+    padding: 10px;
+}
